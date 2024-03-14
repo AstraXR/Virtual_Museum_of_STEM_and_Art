@@ -9,7 +9,7 @@ The Virtual Museum of STEM and Art aims to create an immersive experience showca
 
 Things that must be completed in order to achieve your goals.
 
-High Level Requirements
+High Level Requirements  
 Virtual Environment Creation: I will design and develop an aesthetically divine 3D virtual museum/temple environment using Unreal Engine, featuring thematic sections to showcase different STEM Art exhibits.
 
 Content Curation and Integration: I gather and curate STEM art pieces from peers and professors, including code snippets, media files, interactive simulations, and digital artworks. Integrate these exhibits seamlessly into the virtual museum environment.
