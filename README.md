@@ -12,7 +12,8 @@ The topics can be inspired by and merge political interests, spiritual practices
 
 Things that must be completed in order to achieve your goals.
 
-High Level Requirements  
+High Level Requirements 
+  
 Virtual Environment Creation: I will design and develop an aesthetically divine 3D virtual museum/temple environment using Unreal Engine, featuring thematic sections to showcase different STEM Art exhibits.
 
 Content Curation and Integration: I gather and curate STEM art pieces from peers and professors, including code snippets, media files, interactive simulations, and digital artworks. Integrate these exhibits seamlessly into the virtual museum environment.
@@ -48,12 +49,14 @@ Design and create the 3D virtual museum environment using Unreal Engine.
 Integrate gamification elements throughout the virtual museum to encourage exploration and engagement.)  
 
 **4/14 - 5/4**
+  
 [ ] With the submissions, continue to optimize the design, and implement an intuitive user interface for navigating the virtual museum and interacting with exhibits.  
 [ ] Host the Museum on a dedicated webserver.  
 [ ] Conduct usability testing to gather feedback and make refinements to the interface design.  
 
 
 **5/5 - 5/18**
+  
 [ ] Prepare documentation outlining the features, functionality, and usage of the virtual museum.  
 [ ] Performance Optimization and Testing to optimize the performance of the virtual museum to ensure smooth navigation and interaction across different hardware configurations.  
 [ ] Conduct thorough testing to identify and address any performance bottlenecks or stability issues.  
