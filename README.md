@@ -20,7 +20,7 @@ Content Curation and Integration: I gather and curate STEM art pieces from peers
 
 Interactive Exhibits: I implement interactive elements within each exhibit to engage visitors and enhance their learning experience. This may include interactive displays, audiovisual presentations, explanatory text, and links to additional resources.
 
-User Navigation and Interface: I design an intuitive user interface and navigation system that allows visitors to easily explore the virtual museum, navigate between exhibits, and interact with the gamification features. Ensure accessibility for users of all backgrounds and abilities.
+User Navigation and Interface: I design an intuitive user interface and navigation system that allows visitors to easily explore the virtual museum, navigate between exhibits, and interact with the gamification features. I aim to create accessibility for users of all backgrounds and abilities.
 
 Performance Optimization: I optimize the performance of the virtual museum to ensure smooth navigation and interaction, even on lower-end hardware. This includes optimizing rendering settings, asset loading, and overall frame rate stability.
 
