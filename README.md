@@ -2,7 +2,7 @@
 
 ## Goal and Vision
 
-High level summary goes here.
+High level summary goes here.  
 The Virtual Museum of STEM and Art aims to create an immersive experience showcasing the innovative work of myself, peers, and professors in the fields of STEM (Science, Technology, Engineering, and Mathematics) as well as Art (Music, Graphic Design, 3D Art, Photography, Fashion) through avant-garde expressions such as code, media files, songs, research, digital creations. The topics can be inspired by and merge political interests, spiritual practices, and artistic/technological craft within the current zeitgeist. My vision is to inspire and educate visitors about the intersection of technology and creativity while providing an engaging platform for learning and exploration.
 
 ## High Level Requirements
