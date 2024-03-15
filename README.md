@@ -35,7 +35,7 @@ Implement lighting, textures, and visual effects to enhance the immersive experi
 Integrate exhibits into the virtual environment and ensure seamless transitions between exhibits.
 
 **3/16 - 3/22**   
-Send out document and follow up with individuals & collectives
+Send out document and follow up with individuals & collectives  
 [ ] Create document (outline specific exhibit themes, info panels) to send to peers and professors for STEM Art submissions.   
 [ ] Curate and organize the collected artworks for display within the virtual museum.  
 4/14 - Art Submission/Curation deadline  
