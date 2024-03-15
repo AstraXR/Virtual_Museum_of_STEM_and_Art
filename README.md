@@ -16,15 +16,15 @@ High Level Requirements
   
 Virtual Environment Creation: I will design and develop an aesthetically divine 3D virtual museum/temple environment using Unreal Engine, featuring thematic sections to showcase different STEM Art exhibits.
 
-Content Curation and Integration: I gather and curate STEM art pieces from peers and professors, including code snippets, media files, interactive simulations, and digital artworks. Integrate these exhibits seamlessly into the virtual museum environment.
+Content Curation and Integration: I gather and curate STEM Art pieces from peers and professors, including code snippets, media files, interactive simulations, and digital artworks. I integrate these exhibits seamlessly into the virtual museum environment.
 
 Interactive Exhibits: I implement interactive elements within each exhibit to engage visitors and enhance their learning experience. This may include interactive displays, audiovisual presentations, explanatory text, and links to additional resources.
 
-User Navigation and Interface: I design an intuitive user interface and navigation system that allows visitors to easily explore the virtual museum, navigate between exhibits, and interact with the gamification features. I aim to create accessibility for users of all backgrounds and abilities.
+User Navigation and Interface: I design an intuitive user interface and navigation system that allows visitors to easily explore the virtual museum and navigate between exhibits. I aim to create accessibility for users of all backgrounds and abilities.
 
 Performance Optimization: I optimize the performance of the virtual museum to ensure smooth navigation and interaction, even on lower-end hardware. This includes optimizing rendering settings, asset loading, and overall frame rate stability.
 
-Gamification Features: I integrate gamification elements to incentivize exploration and interaction within the virtual museum. This could involve incorporating achievements, rewards, challenges, and leaderboards to motivate visitors to engage with the exhibits and explore different areas of the museum.
+(Gamification Features: I integrate gamification elements to incentivize exploration and interaction within the virtual museum. This could involve incorporating achievements, rewards, challenges, and leaderboards to motivate visitors to engage with the exhibits and explore different areas of the museum.)
 
 # Deliverables and Schedule
 What will be produced? How long do you think it will take?
@@ -35,7 +35,7 @@ Implement lighting, textures, and visual effects to enhance the immersive experi
 Integrate exhibits into the virtual environment and ensure seamless transitions between exhibits.
 
 **3/16 - 3/22**   
-Send out document, follow up  
+Send out document and follow up with individuals & collectives
 [ ] Create document (outline specific exhibit themes, info panels) to send to peers and professors for STEM Art submissions.   
 [ ] Curate and organize the collected artworks for display within the virtual museum.  
 4/14 - Art Submission/Curation deadline  
