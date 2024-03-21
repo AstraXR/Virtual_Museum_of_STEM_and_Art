@@ -38,7 +38,7 @@ Integrate exhibits into the virtual environment and ensure seamless transitions 
 Send out document and follow up with individuals & collectives  
 [ ] Create document (outline specific exhibit themes, info panels) to send to peers and professors for STEM Art submissions.   
 [ ] Curate and organize the collected artworks for display within the virtual museum.  
-4/14 - Art Submission/Curation deadline  
+4/1 - Art Submission/Curation deadline  
 
 **3/22 - 3/29: Design and create the 3D virtual museum environment using Unreal Engine**    
 [ ] Develop thematic sections and layout for showcasing STEM art exhibits.  
