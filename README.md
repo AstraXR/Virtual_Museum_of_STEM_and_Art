@@ -48,21 +48,21 @@ Send out document and follow up with individuals & collectives
 Integrate gamification elements throughout the virtual museum to encourage exploration and engagement.)  
 **3/29: Submit initial design**    
 
-**3/29 - 4/18**  
+**3/29 - 4/18: Optimizations**  
 [ ] Prepare documentation outlining the features, functionality, and usage of the virtual museum.
 [ ] With the submissions, continue to optimize the design, and implement an intuitive user interface for navigating the virtual museum and interacting with exhibits.  
 [ ] Host the Museum on a dedicated webserver.  
 [ ] Conduct usability testing to gather feedback and make refinements to the interface design.   
 **4/18: Submit final design document**   
 
-**4/18 - 5/2**    
+**4/18 - 5/2: Finalizations**    
 [ ] Performance Optimization and Testing to optimize the performance of the virtual museum to ensure smooth navigation and interaction across different hardware configurations.  
 [ ] Conduct thorough testing to identify and address any performance bottlenecks or stability issues.  
 [ ] Finalize the virtual museum, address any remaining issues or bugs, and prepare for public release.  
 **5/2: Prototype demonstration**    
 
-**5/16**    
-Final presentation
+**5/16: Final presentation**    
+
 
 # Out of Scope
 
