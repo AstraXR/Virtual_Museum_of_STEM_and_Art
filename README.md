@@ -40,7 +40,7 @@ Send out document and follow up with individuals & collectives
 [ ] Curate and organize the collected artworks for display within the virtual museum.  
 4/14 - Art Submission/Curation deadline  
 
-**3/29: Submit initial design**
+**3/29: Submit initial design**  
 Design and create the 3D virtual museum environment using Unreal Engine.  
 [ ] Develop thematic sections and layout for showcasing STEM art exhibits.  
 [ ] Implement interactive elements for each exhibit, such as interactive displays, audiovisual presentations, and informational panels.  
@@ -48,19 +48,19 @@ Design and create the 3D virtual museum environment using Unreal Engine.
 ([ ]Gamification Features: Design and implement gamification mechanics, including achievements, rewards, challenges, and leaderboards.  
 Integrate gamification elements throughout the virtual museum to encourage exploration and engagement.)  
 
-**4/18: Submit final design document**  
+**4/18: Submit final design document**    
 [ ] Prepare documentation outlining the features, functionality, and usage of the virtual museum.
 [ ] With the submissions, continue to optimize the design, and implement an intuitive user interface for navigating the virtual museum and interacting with exhibits.  
 [ ] Host the Museum on a dedicated webserver.  
 [ ] Conduct usability testing to gather feedback and make refinements to the interface design. 
 
-**5/2** 
+**5/2**  
 Prototype demonstration
 [ ] Performance Optimization and Testing to optimize the performance of the virtual museum to ensure smooth navigation and interaction across different hardware configurations.  
 [ ] Conduct thorough testing to identify and address any performance bottlenecks or stability issues.  
 [ ] Finalize the virtual museum, address any remaining issues or bugs, and prepare for public release.  
 
-**5/16**
+**5/16**  
 Final presentation
 
 # Out of Scope
