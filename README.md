@@ -34,11 +34,11 @@ Virtual Environment Creation & Web Server Hosting
 Implement lighting, textures, and visual effects to enhance the immersive experience.  
 Integrate exhibits into the virtual environment and ensure seamless transitions between exhibits.
 
-**3/20 - 4/1: Invite & Curate**     
+**3/20 - 4/6: Invite & Curate**     
 Send out document and follow up with individuals & collectives  
 [ ] Create document (outline specific exhibit themes, info panels) to send to peers and professors for STEM Art submissions.   
 [ ] Curate and organize the collected artworks for display within the virtual museum.  
-**4/1 - Art Submission deadline** 
+**4/6 - Art Submission deadline** 
 
 **3/22 - 3/29: Design and create the 3D virtual museum environment using Unreal Engine**    
 [ ] Develop thematic sections and layout for showcasing STEM art exhibits.  
