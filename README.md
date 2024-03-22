@@ -49,7 +49,7 @@ Integrate gamification elements throughout the virtual museum to encourage explo
 **3/29: Submit initial design**    
 
 **3/29 - 4/18: Optimizations**  
-[ ] Prepare documentation outlining the features, functionality, and usage of the virtual museum.
+[ ] Prepare documentation outlining the features, functionality, and usage of the virtual museum.  
 [ ] With the submissions, continue to optimize the design, and implement an intuitive user interface for navigating the virtual museum and interacting with exhibits.  
 [ ] Host the Museum on a dedicated webserver.  
 [ ] Conduct usability testing to gather feedback and make refinements to the interface design.   
