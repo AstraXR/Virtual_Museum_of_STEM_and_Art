@@ -16,7 +16,7 @@ High Level Requirements
   
 Virtual Environment Creation: I will design and develop an aesthetically divine 3D virtual museum/temple environment using Unreal Engine, featuring thematic sections to showcase different STEM Art exhibits.
 
-Content Curation and Integration: I gather and curate STEM Art pieces from peers and professors, including code snippets, media files, interactive simulations, and digital artworks. I integrate these exhibits seamlessly into the virtual museum environment.
+Content Curation and Integration: I gather and curate STEM Art pieces from peers, friends, professionals, creatives and professors, including code snippets, media files, interactive simulations, and digital artworks. I integrate these exhibits seamlessly into the virtual museum environment.
 
 Interactive Exhibits: I implement interactive elements within each exhibit to engage visitors and enhance their learning experience. This may include interactive displays, audiovisual presentations, explanatory text, and links to additional resources.
 
