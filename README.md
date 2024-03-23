@@ -3,8 +3,8 @@
 ## Goal and Vision 
   
 The Virtual Museum of STEM and Art aims to create an immersive experience showcasing the innovative work of myself, peers, professionals, creatives, and professors in the fields of STEM (Science, Technology, Engineering, and Mathematics) as well as Art (Music, Graphic Design, 3D Art, Photography, Fashion,) through avant-garde expressions such as code, mixed-media files, audiovisuals, data visualizations, research, digital creations.
-  
-The topics can be inspired by and merge political interests, spiritual practices, and artistic/technological craftmanship representative of our zeitgeist. My vision is to inspire and educate visitors & community members about the intersection of technology, art, and creativity while providing an engaging platform for learning and exploration.
+
+There are five exhibition themes based on Medicine, Spirituality, Climate, Space, War. The artwork envisioned is inspired by and merges political interests, spiritual practices, and artistic/technological craftmanship representative of our zeitgeist. The vision is to inspire and educate visitors & community members about the intersection of technology, art, and creativity while providing an engaging platform for learning and exploration.
 
 ## High Level Requirements
   
