@@ -30,7 +30,7 @@ Integrate exhibits into the virtual environment and ensure seamless transitions 
 
 **3/20 - 4/6: Invite & Curate**     
 Send out document and follow up with individuals & collectives  
-[ ] Create document (outline specific exhibit themes, info panels) to send to peers and professors for STEM Art submissions.   
+[ ] Send exhibit themes to peers and professors for STEM Art submissions.   
 [ ] Curate and organize the collected artworks for display within the virtual museum.  
 **4/6 - Art Submission deadline** 
 
