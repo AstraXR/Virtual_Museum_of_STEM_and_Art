@@ -65,7 +65,7 @@ Things that might be related to goals, but don't have to be done to create a wor
 
 Creating a VR environment for the the virtual museum.  
 Physical museum installations or exhibitions.  
-In-depth academic research on STEM art or related topics.  
+In-depth academic research on STEM Art or related topics.  
 Integration with external databases or APIs for dynamic content updates.   
 Advanced AI-driven interactivity beyond gamification features.  
 Monetization strategies or e-commerce functionalities for selling artworks.  
