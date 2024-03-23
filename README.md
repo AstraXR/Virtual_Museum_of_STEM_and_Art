@@ -10,7 +10,7 @@ There are five exhibition themes based on Medicine, Spirituality, Climate, Space
   
 Virtual Environment Creation: Design and develop an aesthetically divine 3D virtual museum/temple environment using Unreal Engine, featuring thematic sections to showcase different STEM Art exhibits.
 
-Content Curation and Integration: Gather and curate STEM Art pieces from peers, friends, professionals, creatives and professors, including code snippets, media files, interactive simulations, and digital artworks. I integrate these exhibits seamlessly into the virtual museum environment.
+Content Curation and Integration: Gather and curate STEM Art pieces from peers, friends, professionals, creatives and professors, including code snippets, media files, interactive simulations, and digital artworks. We integrate these exhibits seamlessly into the virtual museum environment.
 
 Interactive Exhibits: Implement interactive elements within each exhibit to engage visitors and enhance their learning experience. This may include interactive displays, audiovisual presentations, explanatory text, and links to additional resources.
 
