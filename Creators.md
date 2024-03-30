@@ -3,31 +3,17 @@
 ## Project Creator:
 - Zora Su
 
-## Collaborators:
-- [Jane]
-- [Collaborator 2 Name]
-- [Collaborator 3 Name]
-- [Collaborator 4 Name]
-- [Collaborator 5 Name]
-- [Collaborator 6 Name]
-- [Collaborator 7 Name]
-- [Collaborator 8 Name]
-- [Collaborator 9 Name]
-- [Collaborator 10 Name]
-- [Collaborator 11 Name]
-- [Collaborator 12 Name]
-- [Collaborator 13 Name]
-- [Collaborator 14 Name]
-- [Collaborator 15 Name]
-- [Collaborator 16 Name]
-- [Collaborator 17 Name]
-- [Collaborator 18 Name]
-- [Collaborator 19 Name]
-- [Collaborator 20 Name]
-- [Collaborator 21 Name]
-- [Collaborator 22 Name]
-- [Collaborator 23 Name]
-- [Collaborator 24 Name]
-- [Collaborator 25 Name]
+## **Tentative** Collaborators:
+- Jane Shin: https://www.instagram.com/strangejane_/
+- Daniel Moors: https://linktr.ee/danielfromyesterday
+- Pablo Subiotto: https://archinect.com/pgsm
+- Erin Shin: https://www.photobookmagazine.com/features/erin-shin
+- Henry Barbera: https://hen.bar/
+- Viola He: https://violand.xyz/
+- Suraj Barthy: https://surajbarthy.com/
+- Dan Gorelick: https://dan.dog/
+- Evan Caplinger: https://www.ecaplinger.info/
+- Delta: https://delta.center/
+- Kat Zhang: https://linktr.ee/thepoetengineer
+- Roxanne Steinberg: https://www.bodyweather.org/roxanne
 
-(Note: Add more collaborators as needed.)
