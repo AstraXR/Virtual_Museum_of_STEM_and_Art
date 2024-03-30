@@ -1,4 +1,4 @@
-# Collaborators for the Virtual Museum of STEM and Art Project
+# Collaborators for the Virtual Museum of STEM and Art
 
 ## Project Creator:
 - Zora Su
