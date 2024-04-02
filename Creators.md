@@ -3,7 +3,7 @@
 ## Project Creator:
 - Zora Su
 
-## **Tentative** Collaborators:
+## Collaborators:
 - Dan Gorelick: https://dan.dog/
 - Viola He: https://violand.xyz/
 - Delta: https://delta.center/
