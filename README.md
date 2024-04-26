@@ -8,7 +8,7 @@ There are five exhibition themes based on Medicine, Spirituality, Climate, Space
 
 ## High Level Requirements
   
-Virtual Environment Creation: Design and develop an aesthetically divine 3D virtual museum/temple environment using Unreal Engine, featuring thematic sections to showcase different STEM Art exhibits.
+Virtual Environment Creation: Design and develop an aesthetically divine 3D virtual museum/temple environment using Unity, featuring thematic sections to showcase different STEM Art exhibits.
 
 Content Curation and Integration: Gather and curate STEM Art pieces from peers, friends, professionals, creatives and professors, including code snippets, media files, interactive simulations, and digital artworks. We integrate these exhibits seamlessly into the virtual museum environment.
 
@@ -34,7 +34,7 @@ Send out document and follow up with individuals & collectives
 [ ] Curate and organize the collected artworks for display within the virtual museum.  
 **4/6 - Art Submission deadline** 
 
-**3/22 - 3/29: Design and create the 3D virtual museum environment using Unreal Engine**    
+**3/22 - 3/29: Design and create the 3D virtual museum environment using Unity**    
 [ ] Develop thematic sections and layout for showcasing STEM art exhibits.  
 [ ] Implement interactive elements for each exhibit, such as interactive displays, audiovisual presentations, and informational panels.  
 [ ] Test and iterate on the interactivity to ensure a compelling and informative experience for visitors.   
